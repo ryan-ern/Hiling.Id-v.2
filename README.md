@@ -1,6 +1,6 @@
-# HILING.ID Ryan Ernanda - 120140154
+# HILING.ID Version 2 Ryan Ernanda - 120140154
 
-Download apk hiling <a href="#">di sini</a>.
+Download apk hiling <a href="https://expo.dev/artifacts/eas/nntruzHSfn4ffAGLMdVENC.apk">di sini</a>.
 
 ## Screenshoots
 
