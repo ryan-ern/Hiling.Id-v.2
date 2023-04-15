@@ -48,6 +48,11 @@ export const maskapai = [
     maskapai_nama: "Air Asia",
     maskapai_logo: logoMaskapai.airasia,
   },
+  {
+    maskapai_id: "TKG/RDN",
+    maskapai_nama: "Raden Inten II",
+    maskapai_logo: logoMaskapai.radin,
+  },
 ];
 
 export const jadwal = [
@@ -61,7 +66,7 @@ export const jadwal = [
     jadwal_id: 12,
     bandara_kode_keberangkatan: "TKG",
     bandara_kode_tujuan: "CGK",
-    maskapai_id: "JT/LNI",
+    maskapai_id: "TKG/RDN",
   },
   {
     jadwal_id: 13,
