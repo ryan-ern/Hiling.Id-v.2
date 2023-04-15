@@ -18,6 +18,9 @@ Download apk hiling <a href="#">di sini</a>.
 
 </details>
 
+Menambahkan halaman profile untuk implementasi redux thunk sebagai pengambilan IP user menggunakan API, <br/>
+halaman profile dapat memencet logo atau icon profile pada halaman home atau halaman hasil pencarian.
+
 <details>
 <summary>Halaman Profile</summary>
 
@@ -28,7 +31,7 @@ Download apk hiling <a href="#">di sini</a>.
 <details>
 <summary>Screenshot Test Unit Jest</summary>
 
-<img src="assets/jestTest.png" width="200px">
+<img src="assets/jestTest.png" width="600px">
 
 </details>
 
