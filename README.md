@@ -60,6 +60,7 @@ halaman profile dapat memencet logo atau icon profile pada halaman home atau hal
 │      └─ store.js          # File Middleware Redux Thunk
 │  └─ Detail.js             # File detail untuk menampilkan hasil pencarian
 │  └─ Home.js               # File home untuk menampilkan form pencarian
+│  └─ UserPage.js           # File halaman user untuk menampilkan hasil fetch API
 │
 ├─ App.js           # file utama untuk merender semua file
 ├─ .gitattributes
@@ -68,6 +69,7 @@ halaman profile dapat memencet logo atau icon profile pada halaman home atau hal
 ├─ app.json
 ├─ babel.config.json
 ├─ eas.json
+├─ jest.config.json
 ├─ package-lock.json
 ├─ package.json
 ```
