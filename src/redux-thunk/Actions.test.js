@@ -9,7 +9,6 @@ import {
   fetchIP,
 } from "./Actions";
 
-const mockAxios = new MockAdapter(axios);
 const mockStore = configureMockStore([thunk]);
 
 describe("Actions", () => {
