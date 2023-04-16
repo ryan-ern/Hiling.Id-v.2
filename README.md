@@ -18,8 +18,8 @@ Download apk hiling <a href="https://expo.dev/artifacts/eas/nntruzHSfn4ffAGLMdVE
 
 </details>
 
-Menambahkan halaman profile untuk implementasi redux thunk sebagai pengambilan IP user menggunakan API, <br/>
-halaman profile dapat memencet logo atau icon profile pada halaman home atau halaman hasil pencarian.
+Menambahkan halaman profile untuk implementasi redux thunk dan redux saga sebagai pengambilan IP user menggunakan API, <br/>
+Halaman profile dapat memencet logo atau icon profile pada halaman home atau halaman hasil pencarian.
 
 <details>
 <summary>Halaman Profile</summary>
