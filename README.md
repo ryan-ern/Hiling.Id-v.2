@@ -31,6 +31,7 @@ halaman profile dapat memencet logo atau icon profile pada halaman home atau hal
 <details>
 <summary>Screenshot Test Unit Jest</summary>
 
+Test Unit sudah dilakukan kedua Redux dan Hasilnya Sama, file yang di test adalah action.js
 <img src="Hiling.Id-V.ReduxThunk/assets/jestTest.png" width="600px">
 
 </details>
