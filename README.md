@@ -7,14 +7,14 @@ Download apk hiling <a href="https://expo.dev/artifacts/eas/nntruzHSfn4ffAGLMdVE
 <details>
 <summary>Halaman Pencarian</summary>
 
-<img src="assets/home.jpg" width="200px">
+<img src="Hiling.Id-V.ReduxSaga/assets/home.jpg" width="200px">
 
 </details>
 
 <details>
 <summary>Halaman Hasil Pencarian</summary>
 
-<img src="assets/detail.jpg" width="200px">
+<img src="Hiling.Id-V.ReduxThunk/assets/detail.jpg" width="200px">
 
 </details>
 
@@ -24,14 +24,14 @@ halaman profile dapat memencet logo atau icon profile pada halaman home atau hal
 <details>
 <summary>Halaman Profile</summary>
 
-<img src="assets/profile.jpg" width="200px">
+<img src="Hiling.Id-V.ReduxSaga/assets/profile.jpg" width="200px">
 
 </details>
 
 <details>
 <summary>Screenshot Test Unit Jest</summary>
 
-<img src="assets/jestTest.png" width="600px">
+<img src="Hiling.Id-V.ReduxThunk/assets/jestTest.png" width="600px">
 
 </details>
 
