@@ -7,31 +7,32 @@ Download apk hiling <a href="https://expo.dev/artifacts/eas/nntruzHSfn4ffAGLMdVE
 <details>
 <summary>Halaman Pencarian</summary>
 
-<img src="assets/home.jpg" width="200px">
+<img src="Hiling.Id-V.ReduxSaga/assets/home.jpg" width="200px">
 
 </details>
 
 <details>
 <summary>Halaman Hasil Pencarian</summary>
 
-<img src="assets/detail.jpg" width="200px">
+<img src="Hiling.Id-V.ReduxThunk/assets/detail.jpg" width="200px">
 
 </details>
 
-Menambahkan halaman profile untuk implementasi redux thunk sebagai pengambilan IP user menggunakan API, <br/>
-halaman profile dapat memencet logo atau icon profile pada halaman home atau halaman hasil pencarian.
+Menambahkan halaman profile untuk implementasi redux thunk dan redux saga sebagai pengambilan IP user menggunakan API, <br/>
+Halaman profile dapat memencet logo atau icon profile pada halaman home atau halaman hasil pencarian.
 
 <details>
 <summary>Halaman Profile</summary>
 
-<img src="assets/profile.jpg" width="200px">
+<img src="Hiling.Id-V.ReduxSaga/assets/profile.jpg" width="200px">
 
 </details>
 
 <details>
 <summary>Screenshot Test Unit Jest</summary>
 
-<img src="assets/jestTest.png" width="600px">
+Test Unit sudah dilakukan kedua Redux dan Hasilnya Sama, file yang di test adalah action.js
+<img src="Hiling.Id-V.ReduxThunk/assets/jestTest.png" width="600px">
 
 </details>
 
